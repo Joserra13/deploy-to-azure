@@ -13,7 +13,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: joserra13-azure-ttt
+  DOCKER_IMAGE_NAME: Joserra13-azure-ttt
   AZURE_WEBAPP_NAME: Joserra13-ttt-app
   ###############################################
     
